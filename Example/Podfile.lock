@@ -1,0 +1,16 @@
+PODS:
+  - BymGeoExtention (0.1.0)
+
+DEPENDENCIES:
+  - BymGeoExtention (from `../`)
+
+EXTERNAL SOURCES:
+  BymGeoExtention:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BymGeoExtention: 75822b7e90a7a30ac1be6bf9cb8f89c5e419a8d6
+
+PODFILE CHECKSUM: 6c129f45657dcd507faae8487dc88aa6a623481f
+
+COCOAPODS: 1.2.1

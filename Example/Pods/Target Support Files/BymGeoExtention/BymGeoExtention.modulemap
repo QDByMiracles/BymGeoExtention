@@ -1,0 +1,6 @@
+framework module BymGeoExtention {
+  umbrella header "BymGeoExtention-umbrella.h"
+
+  export *
+  module * { export * }
+}

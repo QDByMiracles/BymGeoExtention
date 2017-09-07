@@ -1,0 +1,22 @@
+{
+  "name": "BymGeoExtention",
+  "version": "0.1.0",
+  "summary": "A short description of BymGeoExtention.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bymiracles@163.com/BymGeoExtention",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bymiracles@163.com": "bymiracles@163.com"
+  },
+  "source": {
+    "git": "https://github.com/bymiracles@163.com/BymGeoExtention.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BymGeoExtention/Classes/**/*"
+}
